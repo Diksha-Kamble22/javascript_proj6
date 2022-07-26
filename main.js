@@ -1,6 +1,6 @@
 console.log('Hello World!');
-function f1(int_1, int_2) {
 
+function f1(int_1, int_2) {
   var a = int_1;
   var c = int_2;
   var jk = 46;
@@ -10,9 +10,7 @@ function f1(int_1, int_2) {
 var res = f1(3, 5);
 console.log(res);
 
-
 function f2(int_1, int_2, int_3) {
-
   var e = int_1;
   var c = int_2;
   var jk = -15;
@@ -73,7 +71,6 @@ problem1(7);
 // example 5 - type
 
 function flower_pot(total) {
-
   var name_of_flower = "None";
 
   if (total === 3) {
